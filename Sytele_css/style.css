@@ -290,3 +290,31 @@ position: relative;
     padding-right: 56px;
     padding-bottom: 20px;
 }
+.informacao{
+display: flex;
+align-items: center;
+position: relative;
+left: 610px;
+}
+.insta{
+display: flex;
+position: relative;
+left: 1115px;
+bottom: 55px;
+text-decoration: none;
+color: #FFF;
+width: 36px;
+height: 36px;
+align-items: center;
+}
+.arroba{
+margin-left: 10px;
+}
+footer{
+background-color: #000;
+height: 172px;
+}
+.direitos{
+position: relative;
+bottom: 30px;
+}
